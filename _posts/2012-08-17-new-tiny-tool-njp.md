@@ -17,9 +17,9 @@ In my little quest to be a little less annoyed every day, I automate things. Tod
 7. Add the default category.
 8. Start editing.
 
-Or, in most cases, I copy an old file which contains all the defaults and start editing that. That usually fails miserably, because you are bound to miss something. This kind of thing annoys me.
+Or, in most cases, I copied an old file which contains all the defaults and started editing that. That usually failed miserably, because you are bound to miss something. This kind of thing annoys me.
 
-To be a little less annoyed, I created `njp`, or "new jekyll post". This script does the tedious bits. A session looks as follows:
+To be a little less annoyed, I created `njp`, or "new jekyll post". This script does the tedious bits of the process above. A session looks as follows:
 
 	$ cd jekyll_dir/_posts
 	$ date
@@ -38,4 +38,4 @@ There is even a bit of content in there:
 	
 	# New tiny tool: njp
 
-Should remind you of the page you are looking at.
+This should remind you of the page you are looking at. You can find the code [here at github](https://github.com/froschi/njp).
