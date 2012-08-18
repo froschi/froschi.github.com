@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 'I have just sent my first pull request'
-categories: ['update']
+categories: update
+tags: github
 published: true
 ---
 

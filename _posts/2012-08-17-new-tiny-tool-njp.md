@@ -1,7 +1,9 @@
 ---
 layout: default
 title: 'New tiny tool: njp'
-categories: ['update', 'code']
+categories: update
+tags: jekyll, automation, code
+published: true
 ---
 
 # New tiny tool: njp
