@@ -39,3 +39,5 @@ There is even a bit of content in there:
 	# New tiny tool: njp
 
 This should remind you of the page you are looking at. You can find the code [here at github](https://github.com/froschi/njp).
+
+**Update, 2012/08/18**: I haven't been the first person doing this (no surprise there). [Here is a similar approach](http://www.layouts-the.me/rake/2011/04/23/rake_tasks_for_jekyll/), using a rake task instead of a separate script.
