@@ -2,8 +2,7 @@
 layout: default
 title: None
 ---
-
-# Welcome
+# Welcome to froschi.github.com
 
 You have found a wobsite.
 
