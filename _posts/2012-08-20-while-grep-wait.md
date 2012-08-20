@@ -10,7 +10,7 @@ published: true
 
 If you have done any shell scripting at all, you have probably come across a situation where you wanted to wait for a period of time until a character string appeared somewhere. A case in point would be a line that you expect to appear in a log file, or a filename to appear in a directory. And I bet you have been tempted to write something beginning like this:
 
-```sh
+```
 while ls -1 | grep foo; do
 ```
 
@@ -18,7 +18,7 @@ Which is the source of all kinds of troubles, most of which is that it doesn't w
 
 Instead of fighting with this (and the subsequent problems that will ensue) you should do something like this:
 
-```sh
+```
 while true; do
   ls -1 | grep foo
   if [ "$?" -eq "0" ]; then
