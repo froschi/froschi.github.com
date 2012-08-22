@@ -2,9 +2,9 @@
 layout: default
 title: None
 ---
-# Welcome to froschi.github.com
+ Welcome to froschi.github.com
 
-You have found a wobsite.
+You have found a wobsite. You rascal.
 
 ## Updates
 
