@@ -1,6 +1,6 @@
 ---
 layout: default
-title: None
+title: froschi.github.com
 ---
 # Welcome to froschi.github.com
 
