@@ -1,3 +1,49 @@
+::selection{
+  background: #FFFFC0;
+  color: #424242;
+}
+::-moz-selection{
+  background: #FFFFC0;
+  color: #424242;
+}
+
 body {
   font-family: 'Source Sans Pro', sans-serif;
+  background: #ffffff;
+  color: #424242;
+}
+
+a img {
+  border:none;
+}
+
+a {
+  text-decoration: none;
+  color: #6699cc;
+}
+
+a:hover {
+  color: #424242;
+}
+
+#header {
+  background: #f8f8f8;
+  border-bottom: 1px solid #eee;
+  padding: 15px 0;
+  margin: 0 0 20px 0;
+}
+
+#headercontent {
+  width: 650px;
+  margin: 0 auto;
+}
+
+#headercontent h1 {
+  padding: 0;
+  margin: 0;
+}
+
+#main {
+  width: 650px;
+  margin: 0 auto;
 }
