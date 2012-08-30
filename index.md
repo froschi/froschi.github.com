@@ -2,7 +2,7 @@
 layout: default
 title: froschi.github.com
 ---
-# Welcome to froschi.github.com
+# froschi.github.com
 
 You have found a wobsite. You rascal.
 
