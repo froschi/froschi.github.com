@@ -2,3 +2,5 @@ permalink: /:year/:month/:day/:title.html
 
 markdown: rdiscount
 pygments: true
+
+exclude: ['Gemfile', 'Gemfile.lock']
